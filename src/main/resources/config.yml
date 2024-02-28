@@ -1,0 +1,12 @@
+QUEUE_SERVER:
+  - "Test-1"
+  - "Test-2"
+
+MESSAGES:
+  SERVER_NOT_ENTERED: "&cYou did not enter the server name!"
+  QUEUE_SERVER_NOT_FOUND: "&cThe queue for this server was not found!"
+  PLAYER_NOT_IN_QUEUE: "&cYou are not in any queue!"
+  LEAVE_FROM_QUEUE: "&aYou have successfully exited the queue!"
+  JOIN_QUEUE: "&aYou have queued for server %server%"
+  QUEUE_POSITION: "&eYou are in position &e&l%position%&7/&e&l%queue_size%"
+  PLAYER_SENDED: "&aYou have been sent to server %server%!"

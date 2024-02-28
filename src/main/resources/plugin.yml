@@ -1,0 +1,3 @@
+name: NelsonQueue
+version: '${version}'
+main: it.codedevv.nelsonqueue.Queue
