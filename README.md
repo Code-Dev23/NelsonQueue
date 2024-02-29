@@ -6,6 +6,12 @@
 - Created by CodeDevv_
 - First version
 
+# PLACEHOLDERS LIST:
+- %nelsonqueue_in_queue% | Returns true or false if queued or not.
+- %nelsonqueue_position_queue% | Returns the position it is in the queue.
+- %nelsonqueue_server_queue% | Returns the name of the server where it is queued.
+- %nelsonqueue_queue_size% | Returns the number of players in that queue.
+
 # NEXT UPDATES:
 - Admin Commands (force add, force remove, and other...)
 - Prority System (with permission or luckperms groups)
