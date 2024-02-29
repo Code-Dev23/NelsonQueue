@@ -13,7 +13,7 @@ public class PlaceholdersHook extends PlaceholderExpansion {
 
     @Override
     public @NotNull String getIdentifier() {
-        return "lqueue";
+        return "nelsonqueue";
     }
 
     @Override
